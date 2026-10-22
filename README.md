@@ -1,2 +1,2 @@
 # ultra-nes-emulator
-this nes emulator nes
+this nes emulator coded by claude , deepseek , gemini , chatgpt
